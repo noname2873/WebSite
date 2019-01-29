@@ -1,0 +1,199 @@
+#header {
+	width: 100%;
+	background-image: url(images/first-bg.png);
+	height: 697px;
+}
+#logo {
+	padding-left: 250px;
+	padding-top: 50px;
+	display: inline-block;
+}
+#buttons {
+	display: inline-block;
+	color: white;
+	padding-left: 350px;
+	font-size: 15px;
+}
+#btn {
+	padding: 10px;
+}
+a {
+	color: white;
+	text-decoration: none;
+}
+#title1 {
+	text-align: center;
+	font-size: 50px;
+	padding-top: 250px;
+	color: white;
+}
+#title2 {
+	text-align: center;
+	color: white;
+	padding-top: 50px;
+	font-size: 85px;
+}
+#yellow_box {
+	text-align: center;
+	padding-top: 50px;
+}
+#yellow_btn {
+	font-size: 25px;
+	color: rgb(88 , 88 , 88);
+	background-color: gold;
+	border: none;
+	border-radius: 2px;
+}
+#content1{
+	height: 570px;
+}
+
+#text3{
+	font-family: Sans-Serif;
+	text-align: center;
+	font-size:30px;
+	font-weight: bold;
+	margin-top: 150px;
+	border-color: yellow;
+}
+#text4{
+	font-family: Sans-Serif;
+	text-align: center;
+	font-size:15px;
+	margin-top: 10px;
+	color: rgba(88,88,88,0.5);
+	border-color: yellow;
+}
+.block1{
+	display: inline-block;
+    margin-top: 100px;
+	width:250px;
+	padding: 10px;
+	border-color: yellow;
+}
+#services{
+	text-align: center;
+}
+#block_text1{
+	font-family: Sans-Serif;
+	font-weight: bold;
+}
+#block_text2{
+	font-family: Sans-Serif;
+	font-size:15px;
+	color: rgba(88,88,88,0.5);
+	text-align: justify;
+}
+#content2{
+	background-color: #E6E6E6;
+	height: 675px;
+}
+#text5{
+	padding-top: 100px;
+	text-align: center;
+	font-weight: bold;
+	font-family: Sans-Serif;	
+	font-size: 40px;
+}
+#text6{
+	margin-top: 40px;
+	text-align: center;
+	font-family: Sans-Serif;
+	font-size:17px;
+	color: rgba(88,88,88,0.5);	
+}
+.inline{
+	padding: 15px;
+	display: inline-block;
+}
+#inline-photo{
+	margin-top: 100px;
+	text-align: center;
+}
+/* ---------------------------------------------------------------------- */
+
+#text7{
+	text-align: center;
+	font-weight: bold;
+	font-family: Sans-Serif;	
+	font-size: 40px;
+	padding-top: 100px;
+}
+#text8{
+	margin-top: 30px;
+	text-align: center;
+	font-family: Sans-Serif;
+	font-size:17px;
+	color: rgba(88,88,88,0.5);	
+}
+.image{
+	padding-top: 50px;
+	text-align: center;
+}
+.space{
+	display: inline-block;
+	height: 183px;
+	width: 250px;
+}
+.text-text{
+	float: right;
+	font-family: Sans-Serif;
+	font-variant: small-caps;
+	font-weight: 550;
+	font-stretch: extra-condensed;
+}
+.text-text2{
+	float: left;
+	font-variant: small-caps;
+	font-family: Sans-Serif;
+	font-weight: 550;
+	font-stretch: extra-condensed;
+}
+#padd_img{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.text-text1{
+	float: right;
+	font-family: Sans-Serif;
+	font-weight: 550;
+    padding-left:10px;
+	padding-bottom: -10px;
+}
+#text1-text{
+	padding-bottom: 10px;
+    font-family: Sans-Serif;
+	font-size:15px;
+	color: rgba(88,88,88,0.5);	 
+	float: right;
+	text-align: justify;
+}
+.text-text-2{
+	float: left;
+	font-family: Sans-Serif;
+	font-weight: 550;
+    padding-right:10px;
+	padding-bottom: -10px;
+}
+#text2-text{
+	padding-bottom: 10px;
+    font-family: Sans-Serif;
+	font-size:15px;
+	color: rgba(88,88,88,0.5);	 
+	float: left;
+	text-align: justify;
+}
+.text2-text-2{
+	float: left;
+	font-family: Sans-Serif;
+	font-weight: 550;
+    padding-right:150px;
+	padding-bottom: -10px;
+}
+#copywrite{
+	padding-top: 50px;
+    font-family: Sans-Serif;
+	font-size:13px;
+	color: rgba(88,88,88,0.5);	 
+	text-align: center;
+}
